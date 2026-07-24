@@ -1,0 +1,15 @@
+{
+  "name": "model-selection",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Choosing an AI approach. Right now: by fashion, not by constraint.",
+  "scripts": {
+    "cost": "tsx src/cost.ts",
+    "eval": "tsx src/eval-stub.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}
